@@ -182,4 +182,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [license-url]: https://github.com/anderson-marcelo-bastos-lima/flexblog/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/anderson-marcelo-bastos-lima/
-[product-screenshot]: ./resources/docs/screenshot.jpg
+[product-screenshot]: ./resources/docs/Screenshot.jpg
